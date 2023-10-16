@@ -1,0 +1,15 @@
+/Users/dwinalarsson/Library/CloudStorage/OneDrive-Personal/Nyköping/OOP/PoliceAndThief/PoliceAndThief/bin/Debug/net7.0/PoliceAndThief
+/Users/dwinalarsson/Library/CloudStorage/OneDrive-Personal/Nyköping/OOP/PoliceAndThief/PoliceAndThief/bin/Debug/net7.0/PoliceAndThief.deps.json
+/Users/dwinalarsson/Library/CloudStorage/OneDrive-Personal/Nyköping/OOP/PoliceAndThief/PoliceAndThief/bin/Debug/net7.0/PoliceAndThief.runtimeconfig.json
+/Users/dwinalarsson/Library/CloudStorage/OneDrive-Personal/Nyköping/OOP/PoliceAndThief/PoliceAndThief/bin/Debug/net7.0/PoliceAndThief.dll
+/Users/dwinalarsson/Library/CloudStorage/OneDrive-Personal/Nyköping/OOP/PoliceAndThief/PoliceAndThief/bin/Debug/net7.0/PoliceAndThief.pdb
+/Users/dwinalarsson/Library/CloudStorage/OneDrive-Personal/Nyköping/OOP/PoliceAndThief/PoliceAndThief/obj/Debug/net7.0/PoliceAndThief.csproj.AssemblyReference.cache
+/Users/dwinalarsson/Library/CloudStorage/OneDrive-Personal/Nyköping/OOP/PoliceAndThief/PoliceAndThief/obj/Debug/net7.0/PoliceAndThief.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dwinalarsson/Library/CloudStorage/OneDrive-Personal/Nyköping/OOP/PoliceAndThief/PoliceAndThief/obj/Debug/net7.0/PoliceAndThief.AssemblyInfoInputs.cache
+/Users/dwinalarsson/Library/CloudStorage/OneDrive-Personal/Nyköping/OOP/PoliceAndThief/PoliceAndThief/obj/Debug/net7.0/PoliceAndThief.AssemblyInfo.cs
+/Users/dwinalarsson/Library/CloudStorage/OneDrive-Personal/Nyköping/OOP/PoliceAndThief/PoliceAndThief/obj/Debug/net7.0/PoliceAndThief.csproj.CoreCompileInputs.cache
+/Users/dwinalarsson/Library/CloudStorage/OneDrive-Personal/Nyköping/OOP/PoliceAndThief/PoliceAndThief/obj/Debug/net7.0/PoliceAndThief.dll
+/Users/dwinalarsson/Library/CloudStorage/OneDrive-Personal/Nyköping/OOP/PoliceAndThief/PoliceAndThief/obj/Debug/net7.0/refint/PoliceAndThief.dll
+/Users/dwinalarsson/Library/CloudStorage/OneDrive-Personal/Nyköping/OOP/PoliceAndThief/PoliceAndThief/obj/Debug/net7.0/PoliceAndThief.pdb
+/Users/dwinalarsson/Library/CloudStorage/OneDrive-Personal/Nyköping/OOP/PoliceAndThief/PoliceAndThief/obj/Debug/net7.0/PoliceAndThief.genruntimeconfig.cache
+/Users/dwinalarsson/Library/CloudStorage/OneDrive-Personal/Nyköping/OOP/PoliceAndThief/PoliceAndThief/obj/Debug/net7.0/ref/PoliceAndThief.dll
